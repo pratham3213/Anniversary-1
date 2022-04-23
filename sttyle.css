@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'black-chancery'; /*a name to be used later*/
+    src: url('BLKCHCRY.TTF'); /*URL to font*/
+}
+
+*{
+    margin: 3rem 2rem;
+}
+
+h1{font-family: 'black-chancery';
+    color: #ccc;
+}
+
+html{background: url("https://i.pinimg.com/originals/ed/9c/66/ed9c6609bd967724ad4b416bcf542fef.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+p{
+    font-family: 'black-chancery';
+    color: #ccc;
+    letter-spacing: 2px;
+
+}
+
+br{
+    margin: 0;
+}
+
+table{
+    margin: 0%;
+}
+
+img{
+    width: 100%;
+
+}
